@@ -74,9 +74,9 @@
 </p>
 
 <hr>
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.buymeacoffee.com/aishat001" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Aishat buy me a coffee" width="230"></a>
-</p>
+</p> -->
 
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aishat001/Aishat001" alt="Aishat"/>       
